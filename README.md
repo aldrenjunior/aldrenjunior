@@ -1,7 +1,7 @@
 ### Olá, me chamo Aldren Junior e essas são algumas coisas que eu faço. 
 
 ##
-Tech's que estou estudando: </p>
+Tecnologias que estou estudando: </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="aldren-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="aldren-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
