@@ -21,5 +21,5 @@ Essas são algumas tecnologias que estou estudando e desenvolvendo meus projetos
 ##
 Se quiser me contatar em alguma rede social: </p>
 <a href="mailto:aldren.junior@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-<a href="https://www.linkedin.com/in/aldren-junior/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://www.linkedin.com/in/aldren-junior/" target="blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" rel="noopener noreferrer"></a>
          
