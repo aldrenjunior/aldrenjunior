@@ -1,4 +1,4 @@
-### Aldrén Martins de Queiroz Junior 🦑
+### Aldrén Martins de Queiroz Junior
 
 Bem vindo ao meu perfil do github! Aqui eu coloquei alguns projetos que estou estudando e desenvolvendo para que possam dar uma olhada. </p>
 
