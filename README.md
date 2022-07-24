@@ -6,14 +6,12 @@ Bem vindo ao meu perfil do github! Aqui eu coloquei alguns projetos que estou es
 Essas são algumas tecnologias que estou estudando e desenvolvendo meus projetos e ideias:
 
 <div style="display: inline_block"><br>  
-  <img align="center" alt="aldren-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-  <img align="center" alt="aldren-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
-  <img align="center" alt="aldren-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+       
   <img align="center" alt="aldren-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="aldren-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="aldren-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
   <img align="center" alt="aldren-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
-  <img align="center" alt="aldren-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="aldren-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
           
 </div>
