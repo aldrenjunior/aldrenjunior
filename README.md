@@ -1,9 +1,8 @@
 ### Aldrén Martins de Queiroz Junior
 
-Bem vindo ao meu perfil do github! Aqui eu coloquei alguns projetos que estou estudando e desenvolvendo para que possam dar uma olhada. </p>
+Bem vindo ao meu perfil do github! Aqui eu coloquei alguns projetos que estou estudando e desenvolvendo. </p>
 
 ##
-Essas são algumas tecnologias que estou estudando e desenvolvendo meus projetos e ideias:
 
 <div style="display: inline_block"><br>  
        
