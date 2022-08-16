@@ -1,6 +1,6 @@
 ### Aldrén Martins de Queiroz Junior
 
-Welcome! Here I can see some projects that I am studying and developing.. </p>
+Welcome! Here I can see some projects that I am studying and developing. </p>
 
 ##
 
