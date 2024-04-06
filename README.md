@@ -1,11 +1,8 @@
 ### Aldrén Martins de Queiroz Junior
 
-Welcome! Here I can see some projects that I am studying and developing. </p>
-
-##
 
 <div style="display: inline_block"><br>  
-       
+
         
 <img aligh="center" alt="aldren-Python"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img aligh="center" alt="aldren-Postgres"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
